@@ -1,0 +1,153 @@
+// P3388 【模板】割点（割顶）
+#ifndef LOCAL
+#define NDEBUG
+#endif // close assert if not local
+#include<iostream>
+#include<cstdio>
+#include<string>
+#include<cstring>
+#include<functional>
+#include<algorithm>
+#include<vector>
+#include<map>
+#include<unordered_map>
+#include<set>
+#include<unordered_set>
+#include<stack>
+#include<queue>
+#include<deque>
+#include<utility>
+#include<tuple>
+#include<bitset>
+#include<cassert>
+#include<cctype>
+#include<cmath>
+#include<ctime>
+using namespace std;
+typedef long long ll;
+typedef unsigned long long ull;
+typedef unsigned int uint;
+typedef pair<int, int> Pii;
+template <class Int>
+inline Int fast_read()
+{
+	Int x = 0, f = 1; char ch = getchar();
+	while (!isdigit(ch)) { if (ch == '-') f = -1; ch = getchar(); }
+	while (isdigit(ch)) { x = x * 10 + ch - '0'; ch = getchar(); }
+	return x * f;
+}
+inline int readint() { return fast_read<int>(); }
+inline ll readll() { return fast_read<ll>(); }
+template <class T>
+ostream &operator<<(ostream &os, const vector<T> &vec)
+{
+	os << "["; bool isfirst = true;
+	for (const auto &x : vec)
+	{
+		if (isfirst) isfirst = false;
+		else os << ", ";
+		os << x;
+	}
+	os << "]"; return os;
+}
+template <class T1, class T2>
+ostream &operator<<(ostream &os, const pair<T1, T2> &p)
+{
+	os << "(" << p.first << ", " << p.second << ")"; return os;
+}
+template <class Int>
+inline Int avg2(Int a, Int b) { if (a > b) swap(a, b); return a + ((b - a) >> 1); }
+template <class Int>
+inline Int clen(Int l, Int r) { if (l > r) swap(l, r); return r - l + 1; }
+template <class Int>
+inline bool isodd(Int num) { return (num & 1) != 0; }
+template <class Int>
+inline bool iseven(Int num) { return (num & 1) == 0; }
+const int INTMAX = ~(1 << 31);
+const double EPS = 1e-7;
+//------------------------ header end ------------------------
+
+const int maxn = int(2e4 + 5);
+vector<int> G[maxn];
+int num[maxn];
+int low[maxn];
+bool vis[maxn];
+int dfscnt = 0;
+vector<int> cut_list;
+
+void tarjan(int u, int father)
+{
+	dfscnt++;
+	num[u] = low[u] = dfscnt;
+	vis[u] = true;
+	bool is_cut = false;
+	int child = 0;
+	for (int v : G[u])
+	{
+		if (v != father)
+		{
+			if (!vis[v])
+			{
+				child++;
+				tarjan(v, u);
+				low[u] = min(low[u], low[v]);
+				if (father != -1 && low[v] >= num[u])
+					is_cut = true;
+			}
+			else
+				low[u] = min(low[u], num[v]);
+		}
+	}
+	if (father == -1 && child >= 2)
+		is_cut = true;
+	if (is_cut)
+		cut_list.push_back(u);
+}
+
+void add_bi_edge(int u, int v)
+{
+	G[u].push_back(v);
+	G[v].push_back(u);
+}
+
+int main()
+{
+#ifdef LOCAL
+	freopen("in2.txt", "r", stdin);
+	freopen("out.txt", "w", stdout);
+#endif
+
+	int n, m;
+	scanf("%d%d", &n, &m);
+	for (int ct = 1; ct <= m; ct++)
+	{
+		int u, v;
+		scanf("%d%d", &u, &v);
+		add_bi_edge(u, v);
+	}
+	for (int u = 1; u <= n; u++)
+	{
+		if (!vis[u])
+		{
+			dfscnt = 0;
+			tarjan(u, -1);
+		}
+	}
+	sort(cut_list.begin(), cut_list.end());
+	printf("%d\n", int(cut_list.size()));
+	bool isfirst = true;
+	for (int u : cut_list)
+	{
+		if (isfirst)
+			isfirst = false;
+		else
+			printf(" ");
+		printf("%d", u);
+	}
+
+
+#ifdef CONSOLE_PAUSE
+	system("PAUSE");
+#endif
+	return 0;
+}
