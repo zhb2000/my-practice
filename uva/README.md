@@ -16,3 +16,4 @@
 1. 10791 Minimum Sum LCM //数论、LCM、素数分解
 1. 11582 Colossal Fibonacci Numbers! //斐波那契循环节
 1. 10375 Choose and divide //唯一分解定理、组合数
+1. 10029 Edit Step Ladders //DP

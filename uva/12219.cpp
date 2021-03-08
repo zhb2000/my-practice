@@ -1,7 +1,4 @@
 ﻿// 12219 Common Subexpression Elimination
-//#pragma warning(disable: 6031)
-//#include "pch.h"
-
 #define LOCAL
 
 #include<cstdio>
