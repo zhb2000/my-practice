@@ -16,4 +16,5 @@
 1. longest-increasing-subsequence [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) //二分查找 O(nlogn) 做法
 1. max-submatrix-lcci [最大子矩阵](https://leetcode-cn.com/problems/max-submatrix-lcci/) //前缀和
 1. rectangle-area-ii [矩形面积 II](https://leetcode-cn.com/classic/problems/rectangle-area-ii/description/) //扫描线、线段树
-1. palindrome-pairs [回文对](https://leetcode-cn.com/classic/problems/palindrome-pairs/description/) //子串哈希
+1. palindrome-pairs [回文对](https://leetcode-cn.com/classic/problems/palindrome-pairs/description/) //前缀哈希（求子串哈希）
+1. koko-eating-bananas [爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/) //二分答案
