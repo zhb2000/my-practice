@@ -18,3 +18,4 @@
 1. rectangle-area-ii [矩形面积 II](https://leetcode-cn.com/classic/problems/rectangle-area-ii/description/) //扫描线、线段树
 1. palindrome-pairs [回文对](https://leetcode-cn.com/classic/problems/palindrome-pairs/description/) //前缀哈希（求子串哈希）
 1. koko-eating-bananas [爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/) //二分答案
+1. minimum-number-of-taps-to-open-to-water-a-garden [灌溉花园的最少水龙头数目](https://leetcode-cn.com/classic/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/) //贪心、最少线段覆盖
