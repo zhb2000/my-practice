@@ -19,3 +19,5 @@
 1. palindrome-pairs [回文对](https://leetcode-cn.com/classic/problems/palindrome-pairs/description/) //前缀哈希（求子串哈希）
 1. koko-eating-bananas [爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/) //二分答案
 1. minimum-number-of-taps-to-open-to-water-a-garden [灌溉花园的最少水龙头数目](https://leetcode-cn.com/classic/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/) //贪心、最少线段覆盖
+1. kth-largest-element-in-an-array [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) //Top K 问题、分治、快排
+1. yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcofdescription [圆圈中最后剩下的数字](https://leetcode-cn.com/classic/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/description/) //约瑟夫环问题、DP
