@@ -26,3 +26,4 @@
     - 排序、双指针
 1. [最接近的三数之和](https://leetcode-cn.com/classic/problems/3sum-closest/description/) //排序、双指针
 1. [树节点的第 K 个祖先](https://leetcode-cn.com/classic/problems/kth-ancestor-of-a-tree-node/description/) //LCA、倍增、二进制拆分
+1. [四数之和](https://leetcode-cn.com/problems/4sum/) //meet-in-the-middle

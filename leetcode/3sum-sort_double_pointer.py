@@ -1,6 +1,6 @@
 # 15. 三数之和
 # https://leetcode-cn.com/problems/3sum/
-# 排序、双指针
+# 排序、双指针，O(n^2)
 from typing import List, Dict, Set, Tuple, Iterable
 import math
 import random
