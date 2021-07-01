@@ -29,3 +29,4 @@
 1. [四数之和](https://leetcode-cn.com/problems/4sum/) //meet-in-the-middle
 1. [小张刷题计划](https://leetcode-cn.com/classic/problems/xiao-zhang-shua-ti-ji-hua/description/) //最大值最小化、二分答案、贪心
 1. [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) //DP
+1. [雪糕的最大数量](https://leetcode-cn.com/classic/problems/maximum-ice-cream-bars/description/) //贪心、排序
