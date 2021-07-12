@@ -32,3 +32,5 @@
 1. [雪糕的最大数量](https://leetcode-cn.com/classic/problems/maximum-ice-cream-bars/description/) //贪心、排序
 1. [乘积为正数的最长子数组长度](https://leetcode-cn.com/problems/maximum-length-of-subarray-with-positive-product/) //DP
 1. [分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) //DP、线性 DP
+1. [H 指数](https://leetcode-cn.com/problems/h-index/) //排序、二分
+1. [H 指数 II](https://leetcode-cn.com/problems/h-index-ii/) //二分
