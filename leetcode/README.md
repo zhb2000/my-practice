@@ -1,6 +1,8 @@
 # LeetCode
 1. coin-change
 1. count-of-range-sum
+    - O(nlogn) 做法，分治、归并排序、前缀和
+    - O(n(logn)^2) 做法，分治
 1. gu-piao-de-zui-da-li-run-lcof
 1. legal-binary-search-tree-lcci
 1. maximum-subarray
@@ -22,8 +24,8 @@
 1. kth-largest-element-in-an-array [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) //Top K 问题、分治、快排
 1. yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcofdescription [圆圈中最后剩下的数字](https://leetcode-cn.com/classic/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/description/) //约瑟夫环问题、DP
 1. 3sum [三数之和](https://leetcode-cn.com/problems/3sum/)
-    - meet in the middle
-    - 排序、双指针
+     - meet in the middle
+     - 排序、双指针
 1. [最接近的三数之和](https://leetcode-cn.com/classic/problems/3sum-closest/description/) //排序、双指针
 1. [树节点的第 K 个祖先](https://leetcode-cn.com/classic/problems/kth-ancestor-of-a-tree-node/description/) //LCA、倍增、二进制拆分
 1. [四数之和](https://leetcode-cn.com/problems/4sum/) //meet-in-the-middle
@@ -34,3 +36,5 @@
 1. [分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) //DP、线性 DP
 1. [H 指数](https://leetcode-cn.com/problems/h-index/) //排序、二分
 1. [H 指数 II](https://leetcode-cn.com/problems/h-index-ii/) //二分
+1. [最大相等频率](https://leetcode-cn.com/problems/maximum-equal-frequency/) //思维题、分类讨论
+1. [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) //DP
