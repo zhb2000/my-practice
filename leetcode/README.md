@@ -39,3 +39,6 @@
 1. [最大相等频率](https://leetcode-cn.com/problems/maximum-equal-frequency/) //思维题、分类讨论
 1. [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) //DP
 1. [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) //线性 DP
+1. [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) //反转链表
+1. [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) //链表判环
+1. [排序链表](https://leetcode-cn.com/problems/sort-list/) //归并排序
