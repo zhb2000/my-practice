@@ -42,3 +42,6 @@
 1. [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) //反转链表
 1. [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) //链表判环
 1. [排序链表](https://leetcode-cn.com/problems/sort-list/) //归并排序
+1. [合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+    - 两两归并
+    - 堆
