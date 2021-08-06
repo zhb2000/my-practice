@@ -45,3 +45,5 @@
 1. [合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
     - 两两归并
     - 堆
+1. [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) //平衡二叉树
+1. [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) //分治、归并排序
