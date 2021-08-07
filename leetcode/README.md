@@ -44,6 +44,8 @@
 1. [排序链表](https://leetcode-cn.com/problems/sort-list/) //归并排序
 1. [合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
     - 两两归并
-    - 堆
+    - 优先队列
 1. [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) //平衡二叉树
 1. [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) //分治、归并排序
+1. [数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/) //排序、贪心
+1. [天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/) //扫描线、优先队列
