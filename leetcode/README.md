@@ -49,3 +49,4 @@
 1. [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) //分治、归并排序
 1. [数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/) //排序、贪心
 1. [天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/) //扫描线、优先队列
+1. [组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) //DP
