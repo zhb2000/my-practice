@@ -50,3 +50,8 @@
 1. [数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/) //排序、贪心
 1. [天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/) //扫描线、优先队列
 1. [组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) //DP
+1. [组合总和](https://leetcode-cn.com/problems/combination-sum/) //DFS 暴搜（回溯法）
+1. [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) //DFS 暴搜（回溯法）
+1. [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) //子集枚举（DFS）
+1. [整数拆分](https://leetcode-cn.com/problems/integer-break/) //区间 DP
+1. [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) //贪心
