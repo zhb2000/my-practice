@@ -54,4 +54,8 @@
 1. [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) //DFS 暴搜（回溯法）
 1. [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) //子集枚举（DFS）
 1. [整数拆分](https://leetcode-cn.com/problems/integer-break/) //区间 DP
-1. [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) //贪心
+1. [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
+    - 贪心（时间复杂度 O(n)）
+    - DP（时间复杂度 O(n^2)）
+1. [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) //树形 DP（选择节点类，DFS）
+1. [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) //二分答案、贪心
