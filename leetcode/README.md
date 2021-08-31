@@ -58,4 +58,6 @@
     - 贪心（时间复杂度 O(n)）
     - DP（时间复杂度 O(n^2)）
 1. [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) //树形 DP（选择节点类，DFS）
-1. [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) //二分答案、贪心
+1. [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) //最大值最小化、二分答案、贪心
+1. [跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/) //BFS
+1. [两球之间的磁力](https://leetcode-cn.com/problems/magnetic-force-between-two-balls/) //最小值最大化、二分答案
