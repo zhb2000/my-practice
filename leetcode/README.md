@@ -62,6 +62,6 @@
 1. [跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/) //BFS
 1. [两球之间的磁力](https://leetcode-cn.com/problems/magnetic-force-between-two-balls/) //最小值最大化、二分答案
 1. [Jump Game](https://leetcode-cn.com/problems/jump-game/) //贪心
-1. [Jump Game V](https://leetcode-cn.com/problems/jump-game-v/) //DP
+1. [Jump Game V](https://leetcode-cn.com/problems/jump-game-v/) //DP，记忆化搜索
 1. [Jump Game IV](https://leetcode-cn.com/problems/jump-game-iv/) //BFS（需要优化）
 1. [Jump Game VI](https://leetcode-cn.com/problems/jump-game-vi/) //DP，单调队列优化

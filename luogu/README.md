@@ -116,7 +116,7 @@
 1. P1514 [NOIP2010 提高组] 引水入城 //贪心、排序、记忆化搜索
 1. P1896 [SCOI2005]互不侵犯 //状压 DP
 1. P2034 选择数字 //DP、单调队列
-1. [P1083 [NOIP2012 提高组]](https://www.luogu.com.cn/problem/P1083) 借教室 //二分答案、差分、前缀和
+1. [P1083 [NOIP2012 提高组] 借教室](https://www.luogu.com.cn/problem/P1083) //二分答案、差分、前缀和
 1. [P2051 [AHOI2009]中国象棋](https://www.luogu.com.cn/problem/P2051) //棋盘 DP
 1. [P3369 【模板】普通平衡树](https://www.luogu.com.cn/problem/P3369)
     - 替罪羊树（懒惰删除）
