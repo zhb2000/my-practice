@@ -65,3 +65,7 @@
 1. [Jump Game V](https://leetcode-cn.com/problems/jump-game-v/) //DP，记忆化搜索
 1. [Jump Game IV](https://leetcode-cn.com/problems/jump-game-iv/) //BFS（需要优化）
 1. [Jump Game VI](https://leetcode-cn.com/problems/jump-game-vi/) //DP，单调队列优化
+1. [Longest Happy Prefix](https://leetcode-cn.com/problems/longest-happy-prefix/) //KMP
+1. [Edit Distance](https://leetcode-cn.com/problems/edit-distance/) //线性 DP
+1. [Possible Bipartition](https://leetcode-cn.com/problems/possible-bipartition/) //种类并查集
+1. [Design Add and Search Words Data Structure](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/) //字典树
