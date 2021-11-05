@@ -24,8 +24,8 @@
 1. kth-largest-element-in-an-array [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) //Top K 问题、分治、快排
 1. yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcofdescription [圆圈中最后剩下的数字](https://leetcode-cn.com/classic/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/description/) //约瑟夫环问题、DP
 1. 3sum [三数之和](https://leetcode-cn.com/problems/3sum/)
-     - meet in the middle
-     - 排序、双指针
+    - meet in the middle
+    - 排序、双指针
 1. [最接近的三数之和](https://leetcode-cn.com/classic/problems/3sum-closest/description/) //排序、双指针
 1. [树节点的第 K 个祖先](https://leetcode-cn.com/classic/problems/kth-ancestor-of-a-tree-node/description/) //LCA、倍增、二进制拆分
 1. [四数之和](https://leetcode-cn.com/problems/4sum/) //meet-in-the-middle
@@ -69,3 +69,6 @@
 1. [Edit Distance](https://leetcode-cn.com/problems/edit-distance/) //线性 DP
 1. [Possible Bipartition](https://leetcode-cn.com/problems/possible-bipartition/) //种类并查集
 1. [Design Add and Search Words Data Structure](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/) //字典树
+1. [Circular Permutation in Binary Representation](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation/)
+    - 搜索
+    - 格雷码（构造法）
