@@ -124,3 +124,4 @@
 1. [P6136 【模板】普通平衡树（数据加强版）](https://www.luogu.com.cn/problem/P6136) //替罪羊树
 1. [P2148 [SDOI2009]E&D](https://www.luogu.com.cn/problem/P2148) //博弈、SG 函数
 1. [P2424 约数和](https://www.luogu.com.cn/problem/P2424) //数论、整除分块、对结果的贡献
+1. [P2789 直线交点数](https://www.luogu.com.cn/problem/P2789) //数学、DP
