@@ -110,7 +110,7 @@
 1. P3743 kotori的设备 //二分答案
 1. P2015 二叉苹果树 //树形 DP
 1. P2014 [CTSC1997]选课 //树形背包
-1. P2347 [NOIP1996 提高组] 砝码称重 //DP
+1. [P2347 [NOIP1996 提高组] 砝码称重](https://www.luogu.com.cn/problem/P2347) //DP（类似 0-1 背包）
 1. P4316 绿豆蛙的归宿 //记忆化搜索
 1. P2082 区间覆盖(加强版) //排序、贪心
 1. P1514 [NOIP2010 提高组] 引水入城 //贪心、排序、记忆化搜索
@@ -125,3 +125,4 @@
 1. [P2148 [SDOI2009]E&D](https://www.luogu.com.cn/problem/P2148) //博弈、SG 函数
 1. [P2424 约数和](https://www.luogu.com.cn/problem/P2424) //数论、整除分块、对结果的贡献
 1. [P2789 直线交点数](https://www.luogu.com.cn/problem/P2789) //数学、DP
+1. [P1441 砝码称重](https://www.luogu.com.cn/problem/P1441) //子集枚举（DFS）+ DP（类似 0-1 背包）
