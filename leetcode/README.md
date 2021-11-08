@@ -72,3 +72,6 @@
 1. [Circular Permutation in Binary Representation](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation/)
     - 搜索
     - 格雷码（构造法）
+1. [Number of Longest Increasing Subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
+    - 线性 DP，复杂度 O(n^2)
+    - 二分查找 + DP，复杂度 O(nlogn)
