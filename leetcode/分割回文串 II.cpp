@@ -1,6 +1,5 @@
 //分割回文串 II
 //DP、线性 DP
-#pragma warning(disable:4996)
 #include<iostream>
 #include<cstdio>
 #include<vector>

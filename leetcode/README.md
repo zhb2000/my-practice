@@ -75,3 +75,5 @@
 1. [Number of Longest Increasing Subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
     - 线性 DP，复杂度 O(n^2)
     - 二分查找 + DP，复杂度 O(nlogn)
+1. [Smallest K LCCI](https://leetcode-cn.com/problems/smallest-k-lcci/) //快排（快速选择）
+1. [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) //DFS 枚举，DP 判回文串
