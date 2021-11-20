@@ -126,3 +126,5 @@
 1. [P2424 约数和](https://www.luogu.com.cn/problem/P2424) //数论、整除分块、对结果的贡献
 1. [P2789 直线交点数](https://www.luogu.com.cn/problem/P2789) //数学、DP
 1. [P1441 砝码称重](https://www.luogu.com.cn/problem/P1441) //子集枚举（DFS）+ DP（类似 0-1 背包）
+1. [P1106 删数问题](https://www.luogu.com.cn/problem/P1106) //贪心
+1. [P1094 [NOIP2007 普及组] 纪念品分组](https://www.luogu.com.cn/problem/P1094) //双指针、排序、贪心
