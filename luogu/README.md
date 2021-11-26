@@ -128,3 +128,7 @@
 1. [P1441 砝码称重](https://www.luogu.com.cn/problem/P1441) //子集枚举（DFS）+ DP（类似 0-1 背包）
 1. [P1106 删数问题](https://www.luogu.com.cn/problem/P1106) //贪心
 1. [P1094 [NOIP2007 普及组] 纪念品分组](https://www.luogu.com.cn/problem/P1094) //双指针、排序、贪心
+1. [P1595 信封问题](https://www.luogu.com.cn/problem/P1595) //组合数学、错排问题
+1. [P2638 安全系统](https://www.luogu.com.cn/problem/P1595) //组合数学、隔板法
+1. [P1478 陶陶摘苹果（升级版）](https://www.luogu.com.cn/problem/P1478) //贪心、排序
+1. [P1080 [NOIP2012 提高组] 国王游戏](https://www.luogu.com.cn/problem/P1080) //贪心、数学
