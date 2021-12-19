@@ -135,3 +135,4 @@
 1. [P1095 [NOIP2007 普及组] 守望者的逃离](https://www.luogu.com.cn/problem/P1095) //贪心
 1. [P1056 [NOIP2008 普及组] 排座椅](https://www.luogu.com.cn/problem/P1056) //贪心、排序
 1. [P1807 最长路](https://www.luogu.com.cn/problem/P1807) //DP、记忆化搜索
+1. [P7771 【模板】欧拉路径](https://www.luogu.com.cn/problem/P7771) //欧拉路径、欧拉回路、DFS

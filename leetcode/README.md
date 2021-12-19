@@ -78,3 +78,4 @@
 1. [Smallest K LCCI](https://leetcode-cn.com/problems/smallest-k-lcci/) //快排（快速选择）
 1. [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) //DFS 枚举，DP 判回文串
 1. [Shortest Path Visiting All Nodes](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/) //TSP 问题、状压 DP、Floyd
+1. [Subsets] (https://leetcode-cn.com/problems/subsets/) //子集枚举
