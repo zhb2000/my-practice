@@ -80,3 +80,4 @@
 1. [Shortest Path Visiting All Nodes](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/) //TSP 问题、状压 DP、Floyd
 1. [Subsets] (https://leetcode-cn.com/problems/subsets/) //子集枚举
 1. [视频拼接](https://leetcode-cn.com/problems/video-stitching/) //排序、贪心，线段区间覆盖问题
+1. [合并区间](https://leetcode-cn.com/problems/merge-intervals/) //排序

@@ -136,3 +136,4 @@
 1. [P1056 [NOIP2008 普及组] 排座椅](https://www.luogu.com.cn/problem/P1056) //贪心、排序
 1. [P1807 最长路](https://www.luogu.com.cn/problem/P1807) //DP、记忆化搜索
 1. [P7771 【模板】欧拉路径](https://www.luogu.com.cn/problem/P7771) //欧拉路径、欧拉回路、DFS
+1. [P1049 [NOIP2001 普及组] 装箱问题](https://www.luogu.com.cn/problem/P1049) //0-1 背包 DP
