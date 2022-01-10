@@ -81,3 +81,6 @@
 1. [Subsets] (https://leetcode-cn.com/problems/subsets/) //子集枚举
 1. [视频拼接](https://leetcode-cn.com/problems/video-stitching/) //排序、贪心，线段区间覆盖问题
 1. [合并区间](https://leetcode-cn.com/problems/merge-intervals/) //排序
+1. [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+    - DP
+    - DFS + 剪枝
