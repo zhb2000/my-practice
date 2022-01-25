@@ -84,3 +84,6 @@
 1. [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
     - DP
     - DFS + 剪枝
+1. [移除元素](https://leetcode-cn.com/problems/remove-element/)
+    - 重复赋值法（可以保持原始顺序）
+    - 交换删除法（swap 到末尾删除，无法保持原始顺序）
