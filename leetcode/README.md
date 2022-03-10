@@ -85,5 +85,10 @@
     - DP
     - DFS + 剪枝
 1. [移除元素](https://leetcode-cn.com/problems/remove-element/)
-    - 重复赋值法（可以保持原始顺序）
+    - 重复赋值法（双指针，可以保持原始顺序）
     - 交换删除法（swap 到末尾删除，无法保持原始顺序）
+1. [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) //重复赋值法（双指针）
+1. [最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring/) //枚举子串两端、位运算 (bitset)
+1. [至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+    - 分治
+1. [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) //二分搜索
