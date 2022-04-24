@@ -92,3 +92,5 @@
 1. [至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)
     - 分治
 1. [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) //二分搜索
+1. [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) //DFS 判断二分图
+1. [冗余连接](https://leetcode-cn.com/problems/redundant-connection/) //并查集
