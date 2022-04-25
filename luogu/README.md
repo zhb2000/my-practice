@@ -137,3 +137,5 @@
 1. [P1807 最长路](https://www.luogu.com.cn/problem/P1807) //DP、记忆化搜索
 1. [P7771 【模板】欧拉路径](https://www.luogu.com.cn/problem/P7771) //欧拉路径、欧拉回路、DFS
 1. [P1049 [NOIP2001 普及组] 装箱问题](https://www.luogu.com.cn/problem/P1049) //0-1 背包 DP
+1. [U82118 【模板】Miller Rabin算法](https://www.luogu.com.cn/problem/U82118) //米勒-拉宾素性检验
+1. [U148828 素数判断(Miller-Rabin模板)](https://www.luogu.com.cn/problem/U148828) //米勒-拉宾素性检验
