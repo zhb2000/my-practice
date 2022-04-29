@@ -95,10 +95,8 @@ inline int sgn(double x) { if (x < -EPS) return -1; if (x > EPS) return 1; retur
 // a * b % m
 ll quick_mul(ll a, ll b, ll m)
 {
-	using i128 = __int128;
 	return ll(__int128(a) * b % m);
 }
-
 
 // a^n % m
 ll quick_pow(ll a, ll n, ll m)
@@ -126,7 +124,7 @@ bool miller_rabin(ll n)
 	{
 		u = u / 2;
 		t += 1;
-	} // n = u * 2^t
+	} // n-1 = u * 2^t
 	ll A[] = {2, 325, 9375, 28178, 450775, 9780504, 1795265022};
 	for (ll a : A)
 	{

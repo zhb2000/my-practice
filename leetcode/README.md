@@ -94,3 +94,4 @@
 1. [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) //二分搜索
 1. [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) //DFS 判断二分图
 1. [冗余连接](https://leetcode-cn.com/problems/redundant-connection/) //并查集
+1. [969. 煎饼排序](https://leetcode-cn.com/problems/pancake-sorting/) //思维题，选择排序
