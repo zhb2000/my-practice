@@ -141,3 +141,6 @@
 1. [U148828 素数判断(Miller-Rabin模板)](https://www.luogu.com.cn/problem/U148828) //米勒-拉宾素性检验
 1. [P1609 最小回文数](https://www.luogu.com.cn/problem/P1609) //数学、思维题
 1. [P1341 无序字母对](https://www.luogu.com.cn/problem/P1341) //无向图字典序最小的欧拉路径
+1. [P1044 [NOIP2003 普及组] 栈](https://www.luogu.com.cn/problem/P1044)
+    - DP
+    - 卡特兰数
