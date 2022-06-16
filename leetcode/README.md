@@ -95,3 +95,5 @@
 1. [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) //DFS 判断二分图
 1. [冗余连接](https://leetcode-cn.com/problems/redundant-connection/) //并查集
 1. [969. 煎饼排序](https://leetcode-cn.com/problems/pancake-sorting/) //思维题，选择排序
+1. [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/) //链表
+1. [719. 找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/) //排序、二分答案、尺取
