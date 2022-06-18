@@ -97,3 +97,5 @@
 1. [969. 煎饼排序](https://leetcode-cn.com/problems/pancake-sorting/) //思维题，选择排序
 1. [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/) //链表
 1. [719. 找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/) //排序、二分答案、尺取
+1. [532. 数组中的 k-diff 数对 ](https://leetcode.cn/problems/k-diff-pairs-in-an-array/)//思维题
+1. [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) //字符串、枚举答案
