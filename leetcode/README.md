@@ -99,3 +99,6 @@
 1. [719. 找出第 K 小的数对距离](https://leetcode.cn/problems/find-k-th-smallest-pair-distance/) //排序、二分答案、尺取
 1. [532. 数组中的 k-diff 数对 ](https://leetcode.cn/problems/k-diff-pairs-in-an-array/)//思维题
 1. [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) //字符串、枚举答案
+1. [508. 出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum/) //DFS
+1. [1642. 可以到达的最远建筑](https://leetcode.cn/problems/furthest-building-you-can-reach/) //二分答案
+1. [710. 黑名单中的随机数 - 力扣（LeetCode）](https://leetcode.cn/problems/random-pick-with-blacklist/) //思维题

@@ -1,6 +1,6 @@
 ﻿// 745. 前缀和后缀搜索
 // https://leetcode.cn/problems/prefix-and-suffix-search/
-// 在预处理阶段，枚举每个单词所有可能的前缀和后缀。预处理时间复杂度 O(N * L^2)，每个查询的时间复杂度 O(L)。
+// 在预处理阶段枚举每个单词所有可能的前缀和后缀，预处理时间复杂度 O(N * L^2)，每个查询的时间复杂度 O(L)。
 
 public class WordFilter
 {
