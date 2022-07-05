@@ -107,3 +107,5 @@
       - 暴力枚举子集
 1. [324. 摆动排序 II](https://leetcode.cn/problems/wiggle-sort-ii/) //思维题、构造题、排序
 1. [535. TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl/) //设计题、自增 ID
+1. [1465. 切割后面积最大的蛋糕](https://leetcode.cn/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) //贪心
+1. [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) //哈希表
