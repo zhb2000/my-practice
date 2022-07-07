@@ -109,3 +109,5 @@
 1. [535. TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl/) //设计题、自增 ID
 1. [1465. 切割后面积最大的蛋糕](https://leetcode.cn/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) //贪心
 1. [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) //哈希表
+1. [135. 分发糖果](https://leetcode.cn/problems/candy/) //思维题
+1. [97. 交错字符串 ](https://leetcode.cn/problems/interleaving-string/)//二维线性 DP + 滚动数组优化
