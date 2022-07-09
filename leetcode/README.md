@@ -100,7 +100,9 @@
 1. [532. 数组中的 k-diff 数对 ](https://leetcode.cn/problems/k-diff-pairs-in-an-array/)//思维题
 1. [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) //字符串、枚举答案
 1. [508. 出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum/) //DFS
-1. [1642. 可以到达的最远建筑](https://leetcode.cn/problems/furthest-building-you-can-reach/) //二分答案
+1. [1642. 可以到达的最远建筑](https://leetcode.cn/problems/furthest-building-you-can-reach/)
+      - 堆
+      - 二分答案
 1. [710. 黑名单中的随机数](https://leetcode.cn/problems/random-pick-with-blacklist/) //思维题、设计题
 1. [522. 最长特殊序列 II](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/)
       - 思维题、判断子序列、双指针
@@ -111,3 +113,5 @@
 1. [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) //哈希表
 1. [135. 分发糖果](https://leetcode.cn/problems/candy/) //思维题
 1. [97. 交错字符串 ](https://leetcode.cn/problems/interleaving-string/)//二维线性 DP + 滚动数组优化
+1. [1473. 粉刷房子 III](https://leetcode.cn/problems/paint-house-iii/) //三维DP
+1. [873. 最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/) //DP
