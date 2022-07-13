@@ -115,3 +115,8 @@
 1. [97. 交错字符串 ](https://leetcode.cn/problems/interleaving-string/)//二维线性 DP + 滚动数组优化
 1. [1473. 粉刷房子 III](https://leetcode.cn/problems/paint-house-iii/) //三维DP
 1. [873. 最长的斐波那契子序列的长度](https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/) //DP
+1. [676. 实现一个魔法字典](https://leetcode.cn/problems/implement-magic-dictionary/) //字符串、哈希表
+1. [887. 鸡蛋掉落 ](https://leetcode.cn/problems/super-egg-drop/)//DP、决策单调性、二分查找
+1. [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/) //层序遍历、BFS
+1. [1252. 奇数值单元格的数目](https://leetcode.cn/problems/cells-with-odd-values-in-a-matrix/) //思维题
+1. [735. 行星碰撞](https://leetcode.cn/problems/asteroid-collision/) //思维题、栈
