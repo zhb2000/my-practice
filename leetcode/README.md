@@ -120,3 +120,12 @@
 1. [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/) //层序遍历、BFS
 1. [1252. 奇数值单元格的数目](https://leetcode.cn/problems/cells-with-odd-values-in-a-matrix/) //思维题
 1. [735. 行星碰撞](https://leetcode.cn/problems/asteroid-collision/) //思维题、栈
+1. [380. O(1) 时间插入、删除和获取随机元素](https://leetcode.cn/problems/insert-delete-getrandom-o1/) //设计题
+1. [105. 从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) //二叉树
+1. [106. 从中序与后序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) //二叉树
+1. [889. 根据前序和后序遍历构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) //二叉树
+1. [558. 四叉树交集](https://leetcode.cn/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) //递归、分治
+1. [695. 岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/) //DFS
+1. [576. 出界的路径数](https://leetcode.cn/problems/out-of-boundary-paths/) //DP、滚动数组
+1. [629. K个逆序对数组](https://leetcode.cn/problems/k-inverse-pairs-array/) //DP、滚动数组
+1. [565. 数组嵌套](https://leetcode.cn/problems/array-nesting/) //图、思维题
