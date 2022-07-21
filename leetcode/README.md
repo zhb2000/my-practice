@@ -24,8 +24,8 @@
 1. kth-largest-element-in-an-array [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) //Top K 问题、分治、快排
 1. yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcofdescription [圆圈中最后剩下的数字](https://leetcode-cn.com/classic/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/description/) //约瑟夫环问题、DP
 1. 3sum [三数之和](https://leetcode-cn.com/problems/3sum/)
-     - meet in the middle
-     - 排序、双指针
+    - meet in the middle
+    - 排序、双指针
 1. [最接近的三数之和](https://leetcode-cn.com/classic/problems/3sum-closest/description/) //排序、双指针
 1. [树节点的第 K 个祖先](https://leetcode-cn.com/classic/problems/kth-ancestor-of-a-tree-node/description/) //LCA、倍增、二进制拆分
 1. [四数之和](https://leetcode-cn.com/problems/4sum/) //meet-in-the-middle
@@ -43,8 +43,8 @@
 1. [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) //链表判环
 1. [排序链表](https://leetcode-cn.com/problems/sort-list/) //归并排序
 1. [合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
-     - 两两归并
-     - 优先队列
+    - 两两归并
+    - 优先队列
 1. [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) //平衡二叉树
 1. [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) //分治、归并排序
 1. [数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/) //排序、贪心
@@ -55,8 +55,8 @@
 1. [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) //子集枚举（DFS）
 1. [整数拆分](https://leetcode-cn.com/problems/integer-break/) //区间 DP
 1. [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
-     - 贪心（时间复杂度 O(n)）
-     - DP（时间复杂度 O(n^2)）
+    - 贪心（时间复杂度 O(n)）
+    - DP（时间复杂度 O(n^2)）
 1. [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) //树形 DP（选择节点类，DFS）
 1. [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) //最大值最小化、二分答案、贪心
 1. [跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/) //BFS
@@ -70,11 +70,11 @@
 1. [Possible Bipartition](https://leetcode-cn.com/problems/possible-bipartition/) //种类并查集
 1. [Design Add and Search Words Data Structure](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/) //字典树
 1. [Circular Permutation in Binary Representation](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation/)
-     - 搜索
-     - 格雷码（构造法）
+    - 搜索
+    - 格雷码（构造法）
 1. [Number of Longest Increasing Subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
-     - 线性 DP，复杂度 O(n^2)
-     - 二分查找 + DP，复杂度 O(nlogn)
+    - 线性 DP，复杂度 O(n^2)
+    - 二分查找 + DP，复杂度 O(nlogn)
 1. [Smallest K LCCI](https://leetcode-cn.com/problems/smallest-k-lcci/) //快排（快速选择）
 1. [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) //DFS 枚举，DP 判回文串
 1. [Shortest Path Visiting All Nodes](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/) //TSP 问题、状压 DP、Floyd
@@ -82,15 +82,15 @@
 1. [视频拼接](https://leetcode-cn.com/problems/video-stitching/) //排序、贪心，线段区间覆盖问题
 1. [合并区间](https://leetcode-cn.com/problems/merge-intervals/) //排序
 1. [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
-     - DP
-     - DFS + 剪枝
+    - DP
+    - DFS + 剪枝
 1. [移除元素](https://leetcode-cn.com/problems/remove-element/)
-     - 重复赋值法（双指针，可以保持原始顺序）
-     - 交换删除法（swap 到末尾删除，无法保持原始顺序）
+    - 重复赋值法（双指针，可以保持原始顺序）
+    - 交换删除法（swap 到末尾删除，无法保持原始顺序）
 1. [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) //重复赋值法（双指针）
 1. [最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring/) //枚举子串两端、位运算 (bitset)
 1. [至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)
-     - 分治
+    - 分治
 1. [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) //二分搜索
 1. [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) //DFS 判断二分图
 1. [冗余连接](https://leetcode-cn.com/problems/redundant-connection/) //并查集
@@ -101,12 +101,12 @@
 1. [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) //字符串、枚举答案
 1. [508. 出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum/) //DFS
 1. [1642. 可以到达的最远建筑](https://leetcode.cn/problems/furthest-building-you-can-reach/)
-      - 堆
-      - 二分答案
+    - 堆
+    - 二分答案
 1. [710. 黑名单中的随机数](https://leetcode.cn/problems/random-pick-with-blacklist/) //思维题、设计题
 1. [522. 最长特殊序列 II](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/)
-      - 思维题、判断子序列、双指针
-      - 暴力枚举子集
+    - 思维题、判断子序列、双指针
+    - 暴力枚举子集
 1. [324. 摆动排序 II](https://leetcode.cn/problems/wiggle-sort-ii/) //思维题、构造题、排序
 1. [535. TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl/) //设计题、自增 ID
 1. [1465. 切割后面积最大的蛋糕](https://leetcode.cn/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) //贪心
@@ -129,3 +129,9 @@
 1. [576. 出界的路径数](https://leetcode.cn/problems/out-of-boundary-paths/) //DP、滚动数组
 1. [629. K个逆序对数组](https://leetcode.cn/problems/k-inverse-pairs-array/) //DP、滚动数组
 1. [565. 数组嵌套](https://leetcode.cn/problems/array-nesting/) //图、思维题
+1. [1074. 元素和为目标值的子矩阵数量](https://leetcode.cn/problems/number-of-submatrices-that-sum-to-target/) //前缀和、哈希表
+1. [729. 我的日程安排表 I](https://leetcode.cn/problems/my-calendar-i/) //二分查找
+1. [792. 匹配子序列的单词数](https://leetcode.cn/problems/number-of-matching-subsequences/)
+    - 朴素方法 + 哈希去重
+    - 主串只遍历一次 
+1. [814. 二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) //递归、DFS
