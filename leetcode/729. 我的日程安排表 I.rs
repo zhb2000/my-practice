@@ -1,6 +1,6 @@
 // 729. 我的日程安排表 I
 // https://leetcode.cn/problems/my-calendar-i/
-// 二分查找
+// 有序容器、二分查找
 use std::collections::BTreeMap;
 
 struct MyCalendar {
