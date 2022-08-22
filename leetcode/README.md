@@ -145,3 +145,5 @@
 1. [74. 搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/) //二分查找
 1. [919. 完全二叉树插入器](https://leetcode.cn/problems/complete-binary-tree-inserter/) //完全二叉树、堆式存储、BFS
 1. [1206. 设计跳表](https://leetcode.cn/problems/design-skiplist/) //数据结构、跳表、设计题
+1. [330. 按要求补齐数组](https://leetcode.cn/problems/patching-array/) //贪心、思维题、数学
+1. [593. 有效的正方形](https://leetcode.cn/problems/valid-square/) //计算几何
