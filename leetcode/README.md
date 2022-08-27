@@ -147,3 +147,7 @@
 1. [1206. 设计跳表](https://leetcode.cn/problems/design-skiplist/) //数据结构、跳表、设计题
 1. [330. 按要求补齐数组](https://leetcode.cn/problems/patching-array/) //贪心、思维题、数学
 1. [593. 有效的正方形](https://leetcode.cn/problems/valid-square/) //计算几何
+1. [1460. 通过翻转子数组使两个数组相等](https://leetcode.cn/problems/make-two-arrays-equal-by-reversing-sub-arrays/) //思维题
+1. [869. 重新排序得到 2 的幂](https://leetcode.cn/problems/reordered-power-of-2/) //预处理
+1. [658. 找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/) //二分查找
+1. [363. 矩形区域不超过 K 的最大数值和](https://leetcode.cn/problems/max-sum-of-rectangle-no-larger-than-k/) //前缀和、有序集合、二分查找
