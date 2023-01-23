@@ -151,3 +151,6 @@
 1. [869. 重新排序得到 2 的幂](https://leetcode.cn/problems/reordered-power-of-2/) //预处理
 1. [658. 找到 K 个最接近的元素](https://leetcode.cn/problems/find-k-closest-elements/) //二分查找
 1. [363. 矩形区域不超过 K 的最大数值和](https://leetcode.cn/problems/max-sum-of-rectangle-no-larger-than-k/) //前缀和、有序集合、二分查找
+1. [968. 监控二叉树](https://leetcode.cn/problems/binary-tree-cameras/) //树形 DP
+1. [946. 验证栈序列](https://leetcode.cn/problems/validate-stack-sequences/) //栈、思维题
+1. [1828. 统计一个圆中点的数目](https://leetcode.cn/problems/queries-on-number-of-points-inside-a-circle/) //遍历、几何
