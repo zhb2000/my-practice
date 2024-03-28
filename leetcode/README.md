@@ -154,3 +154,11 @@
 1. [968. 监控二叉树](https://leetcode.cn/problems/binary-tree-cameras/) //树形 DP
 1. [946. 验证栈序列](https://leetcode.cn/problems/validate-stack-sequences/) //栈、思维题
 1. [1828. 统计一个圆中点的数目](https://leetcode.cn/problems/queries-on-number-of-points-inside-a-circle/) //遍历、几何
+1. [1632. 矩阵转换后的秩](https://leetcode.cn/problems/rank-transform-of-a-matrix/) //并查集
+1. [518. 零钱兑换 II](https://leetcode.cn/problems/coin-change-ii) // 背包 DP、滚动数组
+1. [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water) // 双指针
+1. [421. 数组中两个数的最大异或值](https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array) // 字典树
+1. [122. 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii) // 贪心
+1. [121. 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock) // 思维题、DP
+1. [309. 买卖股票的最佳时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown) // DP
+1. [714. 买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) // DP
