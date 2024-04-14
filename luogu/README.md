@@ -147,3 +147,4 @@
 1. [P1055 [NOIP2008 普及组] ISBN 号码](https://www.luogu.com.cn/problem/P1055) //模拟
 1. [P1028 [NOIP2001 普及组] 数的计算](https://www.luogu.com.cn/problem/P1028) //DP、递推、前缀和
 1. [P1156 垃圾陷阱](https://www.luogu.com.cn/problem/P1156) //背包 DP
+1. [P1147 连续自然数和](https://www.luogu.com.cn/problem/P1147) // 尺取

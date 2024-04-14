@@ -1,18 +1,19 @@
 # LeetCode
+
 1. coin-change
 1. count-of-range-sum
-    - O(nlogn) 做法，分治、归并排序、前缀和
-    - O(n(logn)^2) 做法，分治
+    - $O(n\log n)$ 做法，分治、归并排序、前缀和
+    - $O(n(\log n)^2)$ 做法，分治
 1. gu-piao-de-zui-da-li-run-lcof
 1. legal-binary-search-tree-lcci
-1. maximum-subarray
+1. [53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray)
     - DP
     - 分治
 1. median-of-two-sorted-arrays
 1. minimum-distance-between-bst-nodes
 1. number-of-subarrays-with-bounded-maximum
 1. remove-duplicate-letters
-1. task-scheduler
+1. [621. 任务调度器](https://leetcode.cn/problems/task-scheduler) //滑动窗口、贪心
 1. remove-k-digits [移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/) //贪心，单调栈
 1. longest-continuous-increasing-subsequence [最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)
 1. longest-increasing-subsequence [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) //二分查找 O(nlogn) 做法
@@ -24,8 +25,8 @@
 1. kth-largest-element-in-an-array [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) //Top K 问题、分治、快排
 1. yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcofdescription [圆圈中最后剩下的数字](https://leetcode-cn.com/classic/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/description/) //约瑟夫环问题、DP
 1. 3sum [三数之和](https://leetcode-cn.com/problems/3sum/)
-      - meet in the middle
-      - 排序、双指针
+    - meet in the middle
+    - 排序、双指针
 1. [最接近的三数之和](https://leetcode-cn.com/classic/problems/3sum-closest/description/) //排序、双指针
 1. [树节点的第 K 个祖先](https://leetcode-cn.com/classic/problems/kth-ancestor-of-a-tree-node/description/) //LCA、倍增、二进制拆分
 1. [四数之和](https://leetcode-cn.com/problems/4sum/) //meet-in-the-middle
@@ -43,8 +44,8 @@
 1. [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) //链表判环
 1. [排序链表](https://leetcode-cn.com/problems/sort-list/) //归并排序
 1. [合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
-      - 两两归并
-      - 优先队列
+    - 两两归并
+    - 优先队列
 1. [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) //平衡二叉树
 1. [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) //分治、归并排序
 1. [数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array/) //排序、贪心
@@ -55,8 +56,8 @@
 1. [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) //子集枚举（DFS）
 1. [整数拆分](https://leetcode-cn.com/problems/integer-break/) //区间 DP
 1. [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
-      - 贪心（时间复杂度 O(n)）
-      - DP（时间复杂度 O(n^2)）
+    - 贪心（时间复杂度 $O(n)$）
+    - DP（时间复杂度 $O(n^2)$）
 1. [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) //树形 DP（选择节点类，DFS）
 1. [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) //最大值最小化、二分答案、贪心
 1. [跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/) //BFS
@@ -70,11 +71,11 @@
 1. [Possible Bipartition](https://leetcode-cn.com/problems/possible-bipartition/) //种类并查集
 1. [Design Add and Search Words Data Structure](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/) //字典树
 1. [Circular Permutation in Binary Representation](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation/)
-      - 搜索
-      - 格雷码（构造法）
+    - 搜索
+    - 格雷码（构造法）
 1. [Number of Longest Increasing Subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
-      - 线性 DP，复杂度 O(n^2)
-      - 二分查找 + DP，复杂度 O(nlogn)
+    - 线性 DP，复杂度 $O(n^2)$
+    - 二分查找 + DP，复杂度 $O(n\log n)$
 1. [Smallest K LCCI](https://leetcode-cn.com/problems/smallest-k-lcci/) //快排（快速选择）
 1. [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) //DFS 枚举，DP 判回文串
 1. [Shortest Path Visiting All Nodes](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/) //TSP 问题、状压 DP、Floyd
@@ -82,15 +83,15 @@
 1. [视频拼接](https://leetcode-cn.com/problems/video-stitching/) //排序、贪心，线段区间覆盖问题
 1. [合并区间](https://leetcode-cn.com/problems/merge-intervals/) //排序
 1. [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
-      - DP
-      - DFS + 剪枝
+    - DP
+    - DFS + 剪枝
 1. [移除元素](https://leetcode-cn.com/problems/remove-element/)
-      - 重复赋值法（双指针，可以保持原始顺序）
-      - 交换删除法（swap 到末尾删除，无法保持原始顺序）
+    - 重复赋值法（双指针，可以保持原始顺序）
+    - 交换删除法（swap 到末尾删除，无法保持原始顺序）
 1. [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) //重复赋值法（双指针）
 1. [最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring/) //枚举子串两端、位运算 (bitset)
 1. [至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)
-      - 分治
+    - 分治
 1. [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) //二分搜索
 1. [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) //DFS 判断二分图
 1. [冗余连接](https://leetcode-cn.com/problems/redundant-connection/) //并查集
@@ -101,12 +102,12 @@
 1. [745. 前缀和后缀搜索](https://leetcode.cn/problems/prefix-and-suffix-search/) //字符串、枚举答案
 1. [508. 出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum/) //DFS
 1. [1642. 可以到达的最远建筑](https://leetcode.cn/problems/furthest-building-you-can-reach/)
-      - 堆
-      - 二分答案
+    - 堆
+    - 二分答案
 1. [710. 黑名单中的随机数](https://leetcode.cn/problems/random-pick-with-blacklist/) //思维题、设计题
 1. [522. 最长特殊序列 II](https://leetcode.cn/problems/longest-uncommon-subsequence-ii/)
-      - 思维题、判断子序列、双指针
-      - 暴力枚举子集
+    - 思维题、判断子序列、双指针
+    - 暴力枚举子集
 1. [324. 摆动排序 II](https://leetcode.cn/problems/wiggle-sort-ii/) //思维题、构造题、排序
 1. [535. TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl/) //设计题、自增 ID
 1. [1465. 切割后面积最大的蛋糕](https://leetcode.cn/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) //贪心
@@ -132,16 +133,16 @@
 1. [1074. 元素和为目标值的子矩阵数量](https://leetcode.cn/problems/number-of-submatrices-that-sum-to-target/) //前缀和、哈希表
 1. [729. 我的日程安排表 I](https://leetcode.cn/problems/my-calendar-i/) //有序容器、二分查找
 1. [792. 匹配子序列的单词数](https://leetcode.cn/problems/number-of-matching-subsequences/)
-      - 朴素方法 + 哈希去重
-      - 主串只遍历一次 
+    - 朴素方法 + 哈希去重
+    - 主串只遍历一次
 1. [814. 二叉树剪枝](https://leetcode.cn/problems/binary-tree-pruning/) //递归、DFS
 1. [731. 我的日程安排表 II](https://leetcode.cn/problems/my-calendar-ii/) //有序容器、二分查找
 1. [452. 用最少数量的箭引爆气球](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/) //排序、贪心
 1. [757. 设置交集大小至少为2](https://leetcode.cn/problems/set-intersection-size-at-least-two/) //排序、贪心
 1. [1190. 反转每对括号间的子串](https://leetcode.cn/problems/reverse-substrings-between-each-pair-of-parentheses/) //DFS、栈
 1. [240. 搜索二维矩阵 II](https://leetcode.cn/problems/search-a-2d-matrix-ii/)
-      - 二分查找
-      - 折线形查找
+    - 二分查找
+    - 折线形查找
 1. [74. 搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/) //二分查找
 1. [919. 完全二叉树插入器](https://leetcode.cn/problems/complete-binary-tree-inserter/) //完全二叉树、堆式存储、BFS
 1. [1206. 设计跳表](https://leetcode.cn/problems/design-skiplist/) //数据结构、跳表、设计题
@@ -156,9 +157,64 @@
 1. [1828. 统计一个圆中点的数目](https://leetcode.cn/problems/queries-on-number-of-points-inside-a-circle/) //遍历、几何
 1. [1632. 矩阵转换后的秩](https://leetcode.cn/problems/rank-transform-of-a-matrix/) //并查集
 1. [518. 零钱兑换 II](https://leetcode.cn/problems/coin-change-ii) // 背包 DP、滚动数组
-1. [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water) // 双指针
+1. [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water) // 双指针（从两边到中间）
 1. [421. 数组中两个数的最大异或值](https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array) // 字典树
 1. [122. 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii) // 贪心
 1. [121. 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock) // 思维题、DP
 1. [309. 买卖股票的最佳时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown) // DP
 1. [714. 买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) // DP
+1. [123. 买卖股票的最佳时机 III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii) // DP
+    - Note: 这几题的 DP 思路是类似的，都是用 DP 数组来记录 `price[i] + max_profit[i+1]` 的最大值。由于当前 DP 只依赖之前几个状态，因此可以用下标取模的办法缩短 DP 数组的长度，将空间复杂度从 $O(n)$ 降低到 $O(1)$​。
+1. [188. 买卖股票的最佳时机 IV](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv) // DP
+1. [1680. 连接连续二进制数字](https://leetcode.cn/problems/concatenation-of-consecutive-binary-numbers) // 数学
+1. [84. 柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram) // 单调栈 or 悬线法
+1. [763. 划分字母区间](https://leetcode.cn/problems/partition-labels) // 贪心
+1. [331. 验证二叉树的前序序列化](https://leetcode.cn/problems/verify-preorder-serialization-of-a-binary-tree) // 递归 or 栈
+1. [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring) // 尺取（双指针）
+1. [LCR 017. 最小覆盖子串](https://leetcode.cn/problems/M1oyTv) // 同上
+1. [85. 最大矩形](https://leetcode.cn/problems/maximal-rectangle)
+    1. 枚举高度 + 前缀和判断是否全为 1，时间复杂度 $O(m^2n)$
+    1. 将连续 1 的长度视为柱状图的高度，即可转化为 84. 柱状图中最大的矩形，单调栈，时间复杂度 $O(mn)$
+1. [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum)
+    1. 堆，时间复杂度 $O(n\log n)$
+    1. 单调队列（单调队列典型题），时间复杂度 $O(n)$
+1. [297. 二叉树的序列化与反序列化](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree) // 设计题，可用二叉树的前序遍历
+1. [1745. 分割回文串 IV](https://leetcode.cn/problems/palindrome-partitioning-iv) // 预处理、字符串
+    - Note: $O(n^2)$ 预处理是否为回文串，即可 $O(1)$ 判断。
+1. [652. 寻找重复的子树](https://leetcode.cn/problems/find-duplicate-subtrees/) // 思维题
+    - 每棵独特的子树都可唯一地表示为一个三元组 (根节点的值, 左子树 id, 右子树 id)，为每棵独特的子树（每个独特的三元组）分配一个 id 即可，时间复杂度 $O(n)$。
+1. [718. 最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray)
+    1. DP，时间复杂度 $O(n^2)$
+    1. 二分答案 + 哈希，时间复杂度 $O(n \log n)$
+1. [1044. 最长重复子串](https://leetcode.cn/problems/longest-duplicate-substring) // 同上
+1. [209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum) // 尺取（双指针）
+1. [162. 寻找峰值](https://leetcode.cn/problems/find-peak-element) // 二分查找
+1. [852. 山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array) // 同上，二分查找
+1. [151. 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string) // 字符串
+1. [2390. 从字符串中移除星号](https://leetcode.cn/problems/removing-stars-from-a-string) // 栈
+1. [739. 每日温度](https://leetcode.cn/problems/daily-temperatures) // 单调栈
+1. [2300. 咒语和药水的成功对数](https://leetcode.cn/problems/successful-pairs-of-spells-and-potions) // 二分查找
+1. [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters) // 尺取
+1. [1143. 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence) // DP
+   - Note: 时间复杂度 $O(n^2)$，空间复杂度可以从 $O(n^2)$ 优化到 $O(n)$
+1. [516. 最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence) // DP
+    - Note: 这题可以用和最长公共子序列类似的 DP 做法，这样可以降低空间复杂度，时间复杂度 $O(n^2)$，空间复杂度 $O(n)$
+1. [1771. 由子序列构造的最长回文串的长度](https://leetcode.cn/problems/maximize-palindrome-length-from-subsequences) // DP
+    - Note: 这题无法用最长公共子序列的 DP 方法，因为需要记录回文串具体的端点（以 $s[i]$ 和 $s[j]$ 为端点的回文串的最大长度）。DP 的顺序为先枚举回文串长度。
+1. [2484. 统计回文子序列数目](https://leetcode.cn/problems/count-palindromic-subsequences) // 枚举所有可能的前后缀、DP
+    - Note: 这题的做法和前面的不太一样，用前面的 DP 做法会 MLE。注意到字符集很小、回文串很短，因此可以枚举所有可能的长为 1、2 的前缀、后缀，并用 DP 进行计数。
+1. [1930. 长度为 3 的不同回文子序列](https://leetcode.cn/problems/unique-length-3-palindromic-subsequences) // 同上，枚举所有可能的前后缀
+1. [1026. 节点与其祖先之间的最大差值](https://leetcode.cn/problems/maximum-difference-between-node-and-ancestor) // DFS
+1. [2202. K 次操作后最大化顶端元素](https://leetcode.cn/problems/maximize-the-topmost-element-after-k-moves) // 思维题，贪心（考虑能否构造出所在位置的答案）
+1. [546. 移除盒子](https://leetcode.cn/problems/remove-boxes) // 区间 DP
+    - Note: 这道题比较难，关键在于将后缀连续字符的个数作为 DP 状态的一部分。后缀连续字符留到最后一步移除肯定是最优的，问题在于前面的非连续相同字符要不要留下来一起作为连续后缀。
+1. [75. 颜色分类](https://leetcode.cn/problems/sort-colors) // 三色旗算法
+1. [912. 排序数组](https://leetcode.cn/problems/sort-an-array) // 排序
+1. [560. 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k) // 前缀和 + 哈希表
+1. [713. 乘积小于 K 的子数组](https://leetcode.cn/problems/subarray-product-less-than-k) // 尺取
+    - Note: 这题虽然是计数而不是区间长度，但是仍然可以和最长子区间关联起来，进而用尺取求解。
+1. [523. 连续的子数组和](https://leetcode.cn/problems/continuous-subarray-sum) // 前缀和、数学、哈希表
+    - Note: 由于这题涉及倍数，因此要用数论中的同余处理。
+1. [974. 和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k) // 前缀和、数学、哈希表
+1. [134. 加油站](https://leetcode.cn/problems/gas-station) // 贪心
+    - Note: 若从 $i$ 出发最远能到 $j$，则从 $[i, j]$ 之中的点出发必不可能到达 $j + 1$，因此答案必在 $[y + 1, n)$ 之中。此外可以证明若 gas 之和大于 cost 之和则必定有解。
