@@ -218,3 +218,5 @@
 1. [974. 和可被 K 整除的子数组](https://leetcode.cn/problems/subarray-sums-divisible-by-k) // 前缀和、数学、哈希表
 1. [134. 加油站](https://leetcode.cn/problems/gas-station) // 贪心
     - Note: 若从 $i$ 出发最远能到 $j$，则从 $[i, j]$ 之中的点出发必不可能到达 $j + 1$，因此答案必在 $[y + 1, n)$ 之中。此外可以证明若 gas 之和大于 cost 之和则必定有解。
+1. [494. 目标和](https://leetcode.cn/problems/target-sum) // DP、思维题
+1. [394. 字符串解码](https://leetcode.cn/problems/decode-string) // 栈
